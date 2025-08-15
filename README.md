@@ -1,6 +1,6 @@
-##  I'm Yan, an embedded AI engineer with a master's degree in computer science from Yunnan University.👋😉  
+<img width="460" height="483" alt="image" src="https://github.com/user-attachments/assets/252bf017-d5d5-49cf-b9e1-ff54517f13df" />##  I'm Yan, an embedded AI engineer with a master's degree in computer science from Yunnan University.👋😉  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://profile-avatar.csdnimg.cn/06d9aa8bf2d2470ea98bc25987c4835d_qq_61026911.jpg!1" align="center" style="width: 100%" />
 </div>  
   
 
@@ -86,6 +86,9 @@
 <a href="https://www.kaggle.com/yansunwei" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.kaggle.com/yansunwei" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
