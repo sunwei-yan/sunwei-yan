@@ -1,4 +1,4 @@
-##  I'm Yan, an embedded AI engineer with a master's degree in computer science from Yunnan University.👋😉  
+## I am Yan, an embedded artificial intelligence engineer, currently pursuing a master's degree in computer science at Yunnan University. 👋😉
 <div align="center">
 <img width="230" height="240" alt="image" src="https://github.com/user-attachments/assets/252bf017-d5d5-49cf-b9e1-ff54517f13df" />
 </div>  
