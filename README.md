@@ -1,7 +1,9 @@
 ## I am Yan, an embedded artificial intelligence engineer, currently pursuing a master's degree in computer science at Yunnan University. 👋😉
 <div align="center">
 <!-- <img width="230" height="240" alt="image" src="https://github.com/user-attachments/assets/252bf017-d5d5-49cf-b9e1-ff54517f13df" /> -->
-  <img width="230" height="240" alt="e7b94315569b70d993f0984f1a02fa16" src="https://github.com/user-attachments/assets/fa7cc6ec-85c9-4b75-82e9-03c427b60bea" />
+  <img width="266" height="326" alt="e7b94315569b70d993f0984f1a02fa16" src="https://github.com/user-attachments/assets/fa7cc6ec-85c9-4b75-82e9-03c427b60bea" />
+
+
 
 </div>  
   
